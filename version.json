@@ -1,0 +1,15 @@
+{
+  "latest_version": "1.0.0",
+  "release_date": "October 24, 2026",
+  "download_url": "https://github.com/MAAKTHUNDER/thunder-releases/releases/latest",
+  "mandatory": false,
+  "changelog": [
+    "⚡ Single-Pass 23.5% Speedup AI Kill & Knock Detection",
+    "🚀 Hardware-Accelerated NVIDIA RTX 3060 NVENC 60 FPS Export (25-30 Mbps)",
+    "📱 TikTok & Shorts Aspect Ratio Lock Fix (Explicit SAR 1:1 & DAR 9:16)",
+    "💎 3 Editing Levels: Basic (Pure Cuts), Pro (Esports Dynamic), Pro+ (VFX Queue)",
+    "🎵 Exact Audio Synchronization with Background Music Offset Controls",
+    "📁 Live Real-Time Output Highlights Gallery with Instant Playback",
+    "📱 Mobile Roadmap Announcement: Universal Cross-Platform Account (PC & Android)"
+  ]
+}
